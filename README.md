@@ -124,8 +124,7 @@ print("Mean Squared Error = ",mse)
 
 ### Mean Square Error
 
-![image](https://github.com/Aashima02/rnn-stock-price-prediction/assets/93427086/fc36e587-7849-490b-b04c-8ede76d93409)
-
+![image](https://github.com/Lakshmipriya-P-AI/rnn-stock-price-prediction/assets/93427923/adaee6db-f421-4ef9-b883-592617e81203)
 
 ## RESULT
 Thus, a Recurrent Neural Network model for stock price prediction is developed.
